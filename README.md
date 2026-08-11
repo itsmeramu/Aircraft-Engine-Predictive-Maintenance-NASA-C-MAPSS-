@@ -173,38 +173,6 @@ Raw NASA Data
 
 The project will demonstrate the ability to work with aerospace data from its raw form through data preparation, analysis, visualization, and eventually predictive modeling.
 
-## Current Status
-
-### Completed
-
-- [x] NASA C-MAPSS dataset selected
-- [x] FD001 selected
-- [x] Raw training data imported
-- [x] Text-to-Columns completed
-- [x] 26-column structure verified
-- [x] NASA column names added
-- [x] Dataset size verified: 20,631 × 26
-- [x] Blank-value check completed
-- [x] Zero blank cells identified
-
-### Current Stage
-
-- [ ] Remaining Excel data-quality checks
-- [ ] Export structured CSV
-- [ ] Begin Python/Pandas analysis
-
-### Upcoming
-
-- [ ] Python/Pandas cleaning
-- [ ] Exploratory Data Analysis
-- [ ] PostgreSQL implementation
-- [ ] SQL analysis
-- [ ] Power BI dashboard
-- [ ] Portfolio documentation
-- [ ] Machine learning experiments
-- [ ] Model comparison
-- [ ] Predictive-maintenance analysis
-
 ## Sources
 
 NASA Prognostics Center of Excellence Data Set Repository:
